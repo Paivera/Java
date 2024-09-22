@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Att3 {
+public class tt1_3 {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Calculadora Java\n");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Att7 {
+public class tt1_7 {
     
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Att1 {
+public class Att1_1 {
     public static void main(String[] args) throws Exception {
         System.out.println("Digite sua nota:");
         Scanner scanner = new Scanner (System.in);

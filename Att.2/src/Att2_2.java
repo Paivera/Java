@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Att2 {
+public class Att2_2 {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Digite um número de 1 a 10: ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Att2 {
+public class tt1_2 {
     public static void main(String[] args) throws Exception {
         System.out.println("Digite um numero:");
         Scanner scanner = new Scanner (System.in);
