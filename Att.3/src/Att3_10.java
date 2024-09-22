@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Att3_10 {
 
-    public static boolean isPrimo(int num) {
+    public static boolean primo(int num) {
         if (num <= 1) {
             return false;
         }
@@ -24,7 +24,7 @@ public class Att3_10 {
         int numero = 2;
 
         while (contador < n) {
-            if (isPrimo(numero)) {
+            if (primo(numero)) {
                 System.out.print(numero + " ");
                 contador++;
             }
